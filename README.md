@@ -6,5 +6,5 @@ Start by choosing your desired "alive" cells. Then, change the toggle to begin s
 ## Controls
 The slider controls the size of the cell array
 The reset button resets the grid to a blank grid
-
-
+## APP Store URL
+https://appsto.re/us/J5yFfb.i
